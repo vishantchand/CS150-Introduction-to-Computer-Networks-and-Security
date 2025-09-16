@@ -18,3 +18,15 @@ This repository contains all assignments for CS150, demonstrating practical skil
 **Objective:** Perform a security assessment and setup for a video surveillance system.  
 **Tools Used:** Cisco Packet Tracer, MS Word  
 **Skills Demonstrated:** Network security threat analysis, countermeasures, IP addressing, network connectivity, feasibility studies  
+
+---
+
+## How to Use This Repository
+1. Open **Packet Tracer files** (.pkt) to explore and interact with the network simulations.  
+2. Review the **PDF documentation** to understand the network designs, IP allocation, VLAN and ACL configurations.  
+3. View **screenshots** for a quick visual overview of the topologies and configurations.  
+
+---
+
+**GitHub Repository Owner:** Vishant Chand  
+**GitHub:** [github.com/vishantchand](https://github.com/vishantchand)
